@@ -2,7 +2,8 @@ import { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import './App.css';
 const asimLogo =
-  'https://picallow.com/wp-content/uploads/2023/02/2023-02-22_63f60662d0e21_Me.jpg';
+  'https://media.licdn.com/dms/image/D4E03AQGZkaB1m3cvtw/profile-displayphoto-shrink_800_800/0/1678393234752?e=2147483647&v=beta&t=nykAY5G8Jngb6S2VuoD6PQIaPI4JrpYlCQfez38OWSM';
+// 'https://picallow.com/wp-content/uploads/2023/02/2023-02-22_63f60662d0e21_Me.jpg';
 // 'https://media.licdn.com/dms/image/D4D03AQE3gKZVImJ-9g/profile-displayphoto-shrink_800_800/0/1668982928470?e=2147483647&v=beta&t=KyzQuvgV_CbzaZwaycA1wepzxVB8mdLqaGpyH-g4IS4';
 
 function App() {
